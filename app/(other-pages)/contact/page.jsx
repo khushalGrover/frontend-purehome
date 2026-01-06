@@ -5,8 +5,8 @@ import Contact2 from "@/components/otherPages/Contact2";
 import React from "react";
 
 export const metadata = {
-  title: "Contact || Modave - Multipurpose React Nextjs eCommerce Template",
-  description: "Modave - Multipurpose React Nextjs eCommerce Template",
+  title: "Contact || CURVE & COMFY",
+  description: "CURVE & COMFY",
 };
 
 export default function ContactPage() {

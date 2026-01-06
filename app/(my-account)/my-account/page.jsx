@@ -7,8 +7,8 @@ import Link from "next/link";
 import React from "react";
 
 export const metadata = {
-  title: "My Account || Modave - Multipurpose React Nextjs eCommerce Template",
-  description: "Modave - Multipurpose React Nextjs eCommerce Template",
+  title: "My Account || CURVE & COMFY",
+  description: "CURVE & COMFY",
 };
 
 export default function MyAccountPage() {

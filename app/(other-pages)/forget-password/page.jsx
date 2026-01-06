@@ -7,8 +7,8 @@ import React from "react";
 
 export const metadata = {
   title:
-    "Forgot Password || Modave - Multipurpose React Nextjs eCommerce Template",
-  description: "Modave - Multipurpose React Nextjs eCommerce Template",
+    "Forgot Password || CURVE & COMFY",
+  description: "CURVE & COMFY",
 };
 
 export default function ForgotPasswordPage() {

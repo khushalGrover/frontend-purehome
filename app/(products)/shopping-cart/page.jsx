@@ -8,8 +8,8 @@ import React from "react";
 
 export const metadata = {
   title:
-    "Shopping Cart || Modave - Multipurpose React Nextjs eCommerce Template",
-  description: "Modave - Multipurpose React Nextjs eCommerce Template",
+    "Shopping Cart || CURVE & COMFY",
+  description: "CURVE & COMFY",
 };
 
 export default function ShopingCartPage() {

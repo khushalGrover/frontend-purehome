@@ -10,8 +10,8 @@ import React from "react";
 
 export const metadata = {
   title:
-    "Product Description List || Modave - Multipurpose React Nextjs eCommerce Template",
-  description: "Modave - Multipurpose React Nextjs eCommerce Template",
+    "Product Description List || CURVE & COMFY",
+  description: "CURVE & COMFY",
 };
 
 export default async function ProductDescriptionListPage({ params }) {

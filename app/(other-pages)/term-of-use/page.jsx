@@ -6,8 +6,8 @@ import React from "react";
 import Link from "next/link";
 export const metadata = {
   title:
-    "Terms of Use || Modave - Multipurpose React Nextjs eCommerce Template",
-  description: "Modave - Multipurpose React Nextjs eCommerce Template",
+    "Terms of Use || CURVE & COMFY",
+  description: "CURVE & COMFY",
 };
 
 export default function TermsOfUsePage() {

@@ -8,8 +8,8 @@ import React from "react";
 
 export const metadata = {
   title:
-    "My Account Address || Modave - Multipurpose React Nextjs eCommerce Template",
-  description: "Modave - Multipurpose React Nextjs eCommerce Template",
+    "My Account Address || CURVE & COMFY",
+  description: "CURVE & COMFY",
 };
 
 export default function MyAccountAddressPage() {

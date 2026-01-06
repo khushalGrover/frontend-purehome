@@ -6,8 +6,8 @@ import React from "react";
 import Link from "next/link";
 export const metadata = {
   title:
-    "Customer Feedback || Modave - Multipurpose React Nextjs eCommerce Template",
-  description: "Modave - Multipurpose React Nextjs eCommerce Template",
+    "Customer Feedback || CURVE & COMFY",
+  description: "CURVE & COMFY",
 };
 
 export default function CustomerFeedbackPage() {

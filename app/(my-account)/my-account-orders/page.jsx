@@ -9,8 +9,8 @@ import React from "react";
 
 export const metadata = {
   title:
-    "My Account Orders || Modave - Multipurpose React Nextjs eCommerce Template",
-  description: "Modave - Multipurpose React Nextjs eCommerce Template",
+    "My Account Orders || CURVE & COMFY",
+  description: "CURVE & COMFY",
 };
 
 export default function MyAccountOrdersPage() {
