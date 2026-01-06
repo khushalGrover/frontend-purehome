@@ -90,7 +90,7 @@ export default function StoreLocations2() {
                         <li>
                           <h6 className="mb_8">Address:</h6>
                           <p className="text-secondary">
-                            2163 Phillips Gap Rd West Jefferson, North Carolina
+                            M-57, DLF, Gurugram - 122008, Haryana, India
                           </p>
                         </li>
                         <li>

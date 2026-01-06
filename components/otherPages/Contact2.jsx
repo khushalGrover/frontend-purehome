@@ -124,8 +124,7 @@ export default function Contact2() {
             <div className="mb_20">
               <div className="text-title mb_8">Address:</div>
               <p className="text-secondary">
-                2163 Phillips Gap Rd, West Jefferson, North Carolina, United
-                States
+                M-57, DLF, Gurugram - 122008, Haryana, India
               </p>
             </div>
             <div>

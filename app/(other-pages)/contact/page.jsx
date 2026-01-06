@@ -15,7 +15,7 @@ export default function ContactPage() {
       <Topbar6 bgColor="bg-main" />
       <Header2 />
       <iframe
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.712380803123!2d-74.00594108459235!3d40.712775279328264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a3168ef8b1f%3A0xe28a875ee38c8ed1!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2s!4v1617203294845!5m2!1sen!2s"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d56124.789062693315!2d76.9908941941086!3d28.45546538268922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1937dafd43af%3A0x8b73e267e5170935!2sDLF%20Building%209B%2C%20Cyber%20City%20Gurugram!5e0!3m2!1sen!2sin!4v1767697471806!5m2!1sen!2sin"
         width={600}
         height={450}
         style={{ border: 0, width: "100%" }}
