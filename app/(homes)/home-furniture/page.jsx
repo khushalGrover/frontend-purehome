@@ -19,7 +19,7 @@ import Banner from "@/components/homes/cosmetic/Banner";
 
 export const metadata = {
   title:
-    "Home Furniture || CURVE & COMFY",
+    "Home || CURVE & COMFY",
   description: "CURVE & COMFY",
 };
 

@@ -6,8 +6,8 @@ import React from "react";
 import Link from "next/link";
 
 export const metadata = {
-  title: "Privacy Policy || PureHomes - Your Trusted Home Furnishing Partner",
-  description: "Learn how PureHomes collects, uses, and protects your personal information. Your privacy is important to us.",
+  title: "Privacy Policy || CURVE & COMFY - Your Trusted Home Furnishing Partner",
+  description: "Learn how CURVE & COMFY collects, uses, and protects your personal information. Your privacy is important to us.",
 };
 
 export default function PrivacyPolicyPage() {
