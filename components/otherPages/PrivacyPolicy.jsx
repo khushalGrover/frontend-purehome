@@ -81,11 +81,11 @@ export default function PrivacyPolicy() {
               <h5 className="terms-of-use-title">1. Introduction</h5>
               <div className="terms-of-use-content">
                 <p>
-                  Welcome to PureHomes. We are committed to protecting your personal information and your right to privacy. 
+                  Welcome to CURVE & COMFY. We are committed to protecting your personal information and your right to privacy. 
                   This Privacy Policy explains how we collect, use, and safeguard your information when you visit our website.
                 </p>
                 <p>
-                  If you have any questions or concerns about this privacy policy, please contact us at privacy@purehomes.com.
+                  If you have any questions or concerns about this privacy policy, please contact us at privacy@CURVE & COMFY.com.
                 </p>
               </div>
             </div>
