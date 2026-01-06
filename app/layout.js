@@ -21,7 +21,6 @@ import SizeGuide from "@/components/modals/SizeGuide";
 import Wishlist from "@/components/modals/Wishlist";
 import DemoModal from "@/components/modals/DemoModal";
 import Categories from "@/components/modals/Categories";
-import RtlToggler from "@/components/common/RtlToggler";
 import AccountSidebar from "@/components/modals/AccountSidebar";
 import { AuthProvider } from "@/context/AuthContext";
 import { ToastContainer } from "react-toastify";
@@ -155,7 +154,6 @@ export default function RootLayout({ children }) {
         )}
         <AuthProvider>
           <Context>
-            <RtlToggler />
 
             <div id="wrapper">{children}</div>
 
