@@ -1,6 +1,6 @@
 import BlogDefault from "@/components/blogs/BlogDefault";
 import Footer1 from "@/components/footers/Footer1";
-import Header1 from "@/components/headers/Header1";
+import Header2 from "@/components/headers/Header2";
 import Topbar6 from "@/components/headers/Topbar6";
 import Link from "next/link";
 import React from "react";
@@ -9,7 +9,7 @@ export default function BlogDefaultPage() {
   return (
     <>
       <Topbar6 bgColor="bg-main" />
-      <Header1 />
+      <Header2 />
       <div
         className="page-title"
         style={{ backgroundImage: "url(/images/section/page-title.jpg)" }}

@@ -3,7 +3,7 @@ import Nav from "./Nav";
 import Link from "next/link";
 import Image from "next/image";
 import CartLength from "../common/CartLength";
-export default function Header16() {
+export default function Header26() {
   return (
     <header
       id="header"

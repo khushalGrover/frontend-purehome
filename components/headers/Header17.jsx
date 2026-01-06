@@ -5,7 +5,7 @@ import Link from "next/link";
 import Image from "next/image";
 import CartLength from "../common/CartLength";
 import CategoryList2 from "./CategoryList2";
-export default function Header17() {
+export default function Header27() {
   return (
     <header id="header" className="header-default header-style-6 mb-0">
       <div className="container-full2">

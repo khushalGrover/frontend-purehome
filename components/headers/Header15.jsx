@@ -3,7 +3,7 @@ import Nav from "./Nav";
 import Link from "next/link";
 import Image from "next/image";
 import CartLength from "../common/CartLength";
-export default function Header15() {
+export default function Header25() {
   return (
     <header id="header" className="header-default header-style-7 header-bg">
       <div className="container">

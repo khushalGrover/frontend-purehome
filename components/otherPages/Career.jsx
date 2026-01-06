@@ -90,7 +90,7 @@ export default function Career() {
             <div className="col-12">
               <div className="content text-center">
                 <h1 className="title wow fadeInUp bottom-10px">Join Our Team</h1>
-                <p className="sub-title wow fadeInUp">Build your career with PureChair and be part of creating beautiful spaces</p>
+                <p className="sub-title wow fadeInUp">Build your career with CURVE & COMFY and be part of creating beautiful spaces</p>
               </div>
             </div>
           </div>
@@ -148,7 +148,7 @@ export default function Career() {
             <div className="col-12">
               <div className="tf-heading style-1 text-center bottom-10px">
                 <h2 className="title bottom-30px">Current Openings</h2>
-                <p className="sub-title">Find your perfect position at PureChair</p>
+                <p className="sub-title">Find your perfect position at CURVE & COMFY</p>
               </div>
             </div>
             
@@ -291,13 +291,13 @@ export default function Career() {
             <div className="col-lg-6">
               <div className="contact-info">
                 <h3>Contact Us</h3>
-                <p>Have questions about careers at PureChair? Reach out to our HR team.</p>
+                <p>Have questions about careers at CURVE & COMFY? Reach out to our HR team.</p>
                 
                 <div className="contact-method">
                   <i className="icon-email"></i>
                   <div>
                     <h4>Email Us</h4>
-                    <a href="mailto:careers@purechair.com">careers@purechair.com</a>
+                    <a href="mailto:careers@CURVE&COMFY.com">careers@CURVE&COMFY.com</a>
                   </div>
                 </div>
                 

@@ -6,7 +6,7 @@ import Link from "next/link";
 import CurrencySelect from "../common/CurrencySelect";
 import LanguageSelect from "../common/LanguageSelect";
 import CartLength from "../common/CartLength";
-export default function Header10() {
+export default function Header20() {
   return (
     <header id="header" className="header-default header-style-4">
       <div className="main-header line-bt">

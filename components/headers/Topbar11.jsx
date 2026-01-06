@@ -18,10 +18,10 @@ export default function Topbar11() {
             </li>
             <li>
               <a
-                href="mailto:hi.avitex@gmail.com"
+                href="mailto:themesflat@gmail.com"
                 className="link text-white text-caption-1"
               >
-                hi.avitex@gmail.com
+                themesflat@gmail.com
               </a>
             </li>
           </ul>

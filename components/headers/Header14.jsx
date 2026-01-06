@@ -5,7 +5,7 @@ import Link from "next/link";
 import Image from "next/image";
 import CategoryList2 from "./CategoryList2";
 
-export default function Header14() {
+export default function Header24() {
   return (
     <header
       id="header"

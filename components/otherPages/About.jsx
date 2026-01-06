@@ -22,7 +22,7 @@ export default function About() {
           <div className="col-md-6">
             <div className="about-us-content">
               <h3 className="title wow fadeInUp">
-                PureChair – Offering rare and beautiful items all over the india 
+                CURVE & COMFY – Offering rare and beautiful items all over the india 
               </h3>
               <div className="widget-tabs style-3">
                 <ul className="widget-menu-tab wow fadeInUp">
@@ -60,14 +60,14 @@ export default function About() {
                     } `}
                   >
                     <p>
-                      Welcome to PureChair Store, your premier destination for
+                      Welcome to CURVE & COMFY Store, your premier destination for
                       luxury-forward furniture. We pride
                       ourselves on offering a curated selection of rare and
                       beautiful items sourced both locally and globally. Our
                       mission is to bring you the latest trends and timeless
                       styles, ensuring every piece reflects quality and 
                       elegance. Discover the perfect addition to your wardrobe
-                      at PureChair Store.
+                      at CURVE & COMFY Store.
                     </p>
                   </div>
                   <div

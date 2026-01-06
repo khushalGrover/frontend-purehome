@@ -1,5 +1,5 @@
 import Footer1 from "@/components/footers/Footer1";
-import Header1 from "@/components/headers/Header1";
+import Header2 from "@/components/headers/Header2";
 import Topbar6 from "@/components/headers/Topbar6";
 import Breadcumb from "@/components/productDetails/Breadcumb";
 import Descriptions1 from "@/components/productDetails/descriptions/Descriptions1";
@@ -38,7 +38,7 @@ export default async function ProductDetailPage({ params }) {
     return (
       <>
         <Topbar6 bgColor="bg-main" />
-        <Header1 />
+        <Header2 />
         <div className="container mt-5 mb-5 text-center">
           <h2>Product Not Found</h2>
           <p>The product you are looking for does not exist.</p>
@@ -51,7 +51,7 @@ export default async function ProductDetailPage({ params }) {
   return (
     <>
       <Topbar6 bgColor="bg-main" />
-      <Header1 />
+      <Header2 />
       <Breadcumb product={product} />
       <Details1 product={product} />
       <Descriptions1 />

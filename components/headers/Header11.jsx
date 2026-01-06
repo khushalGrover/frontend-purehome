@@ -7,7 +7,7 @@ import Link from "next/link";
 import CartLength from "../common/CartLength";
 import ProductSearch from "./ProductSearch";
 import ProductSorting from "./ProductSorting";
-export default function Header11() {
+export default function Header21() {
   return (
     <header id="header" className="header-default header-style-5 header-white">
       <div className="main-header bg-blue-2">
